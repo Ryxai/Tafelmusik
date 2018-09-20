@@ -19,7 +19,7 @@ You will need .NET 4.7 in order to use this properly. Afterwards clone the envir
 Note that if you modify these files there is a testing library included in this project. The test process is used to test the library's response to Win32 and System exceptions and should be included
 if you write any new tests to maker sure they function properly. Using the tests is pretty straight forward if the library is cloned, simply build and run the tests using Visual Studio test manager.
 
-#License: 
+## License: 
 Copyright 2018 Ryxai
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), 
